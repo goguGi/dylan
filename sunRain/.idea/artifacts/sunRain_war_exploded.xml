@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sunRain:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/sunRain_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sunRain/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sunRain" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
